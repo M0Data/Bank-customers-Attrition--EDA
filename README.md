@@ -53,19 +53,17 @@ This project analyzes a banking customer dataset (~10,000 records, 18 features) 
 
 ---
 
-## Visualizations  
-> Place images in a folder named `images/` and link them as below:
 
 ### Churn Distribution  
 
 ## Visualizations  
-![EDA](https://github.com/M0Data/Bank-customers-Attrition--EDA/blob/main/eda.png)
-
-![Correlation Heatmap](https://github.com/M0Data/Bank-customers-Attrition--EDA/blob/main/corrolation.png)
-
 ![Age vs Churn](https://github.com/M0Data/Bank-customers-Attrition--EDA/blob/main/Agevschurn.png)
 
 ![Balance vs Churn](https://github.com/M0Data/Bank-customers-Attrition--EDA/blob/main/BalancevsChurn.png)
+
+![EDA](https://github.com/M0Data/Bank-customers-Attrition--EDA/blob/main/eda.png)
+
+![Correlation Heatmap](https://github.com/M0Data/Bank-customers-Attrition--EDA/blob/main/corrolation.png)
 
 ---
 
