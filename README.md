@@ -43,7 +43,7 @@ This project analyzes a 10,000-record banking dataset to identify key drivers of
 ---
 
 ## Visualizations  
-![EDA]()
+![EDA](https://github.com/M0Data/Bank-customers-Attrition--EDA/blob/main/eda.png)
 ![Correlation Heatmap](https://github.com/M0Data/Bank-customers-Attrition--EDA/blob/main/corrolation.png)
 
 ![Age vs Churn](https://github.com/M0Data/Bank-customers-Attrition--EDA/blob/main/Agevschurn.png)
