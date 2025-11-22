@@ -1,7 +1,7 @@
 # Bank Customer Attrition Analysis  
 Exploratory Data Analysis (EDA) Using Python
 
-This project analyzes a 10,000-record banking dataset to identify key drivers of customer churn and uncover actionable insights that support better retention strategies.
+This project analyzes a 10,000-record banking dataset to identify key drivers of customer churn and uncover actionable insights that support better retention strategies. Here is the python file (https://github.com/M0Data/Bank-customers-Attrition--EDA/blob/main/Exploring_Bank_Customer_Attrition_EDA_project.ipynb)
 
 ---
 
