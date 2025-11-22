@@ -47,5 +47,5 @@ This project analyzes a 10,000-record banking dataset to identify key drivers of
 
 ![Age vs Churn](images/age_vs_churn.png)
 
-![Balance vs Churn](images/balance_vs_churn.png)
+![Balance vs Churn](https://github.com/M0Data/Bank-customers-Attrition--EDA/blob/main/BalancevsChurn.png)
 
